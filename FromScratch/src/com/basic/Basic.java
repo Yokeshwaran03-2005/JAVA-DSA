@@ -1,4 +1,4 @@
-package com.yokesh;
+package com.basic;
 
 public class Basic {
     static void main() {

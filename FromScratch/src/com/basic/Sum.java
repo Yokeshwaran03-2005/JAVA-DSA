@@ -1,4 +1,4 @@
-package com.yokesh;
+package com.basic;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package LinearSearching;
+package com.LinearSearching;
 import java.util.Arrays;
 
 public class SearchInString {

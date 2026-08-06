@@ -1,9 +1,9 @@
-package BinarySearching;
+package com.BinarySearching;
 
 public class binarysearch {
     static void main(String[] args) {
         int[] arr={11,22,33,44,55,66,77,88,89,90};
-        int target=88;
+        int target=44;
         int ans=binarySearch(arr,target);
         System.out.println(ans);
     }
@@ -26,6 +26,6 @@ public class binarysearch {
           }
 
         }
-        return -1;
+        return low;
     }
 }

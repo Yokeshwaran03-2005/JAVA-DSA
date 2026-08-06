@@ -1,4 +1,4 @@
-package LinearSearching;
+package com.LinearSearching;
 
 public class EvenDights {
     static void main(String[] args) {
