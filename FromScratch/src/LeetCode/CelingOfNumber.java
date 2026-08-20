@@ -3,7 +3,7 @@ package LeetCode;
 public class CelingOfNumber {
     public static void main(String[] yokesh) {
         int[] arr ={2,3,5,9,14,16,18};
-        int target=19;
+        int target=15;
         int ans=ceiling(arr,target);
         System.out.println(arr  [ans]);
 

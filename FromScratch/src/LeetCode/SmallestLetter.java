@@ -24,7 +24,7 @@ Output: "x"
 Explanation: There are no characters in letters that is lexicographically greater than 'z' so we return letters[0].
 */
 
-public class SmallestLetter {
+public class   SmallestLetter {
     static void main() {
         char[] letters={'c','f','j'};
         char target='c';
